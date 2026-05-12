@@ -16,7 +16,7 @@ composer run dev
 
 Then visit [http://localhost:8000](http://localhost:8000). The seeder script created an admin user (`admin@example.com`) and two regular users (`user1@example.com`, `user2@example.com`). The password is `password` for all users. The script also created some example data to play with.
 
-I noticed that the Vite dev server tends to crash quite often. If the app becomes unresponsive, check that the server is still up.
+I observed that the Vite dev server tends to crash quite often. If the app becomes unresponsive, check that the server is still up.
 
 ## Features
 
