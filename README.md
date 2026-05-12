@@ -2,7 +2,7 @@
 
 This an example Laravel app. To keep things simple, the database is SQLite and the user interface is based on Laravel's Vue starter kit.
 
-## Installing and running
+## Cloning and running
 
 ```bash
 git clone https://github.com/rmojala/example-app.git
