@@ -20,7 +20,7 @@ I noticed that the Vite dev server tends to crash quite often. If the app become
 
 ## Features
 
-- Users can create/view/edit/delete notes.
+- Users can create/read/update/delete notes.
 - Users can grant/revoke other users read access to individual notes.
 - Admins can manage users by enabling/disabling their ability to create notes.
 
