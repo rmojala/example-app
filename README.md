@@ -26,6 +26,6 @@ I noticed that the Vite dev server tends to crash quite often. If the app become
 
 ## Comments
 
-- The database tables use auto-incrementing ids because this is the default in Laravel. In real apps I prefer UUIDv7 ids by default.
+- The database tables use auto-incrementing IDs because this is the default in Laravel. In real apps I prefer UUIDv7 IDs by default.
 - I didn't write documentation or type specifications. In real apps I document components and API boundaries.
 - I wrote just a few example tests. In real apps I often like to do test-driven development.
